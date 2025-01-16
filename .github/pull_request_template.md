@@ -8,3 +8,5 @@ To choose the appropriate pull request template, follow these steps:
 - [Bug Report Template](./PULL_REQUEST_TEMPLATE/bug.md)
 - [Feature Request Template](./PULL_REQUEST_TEMPLATE/feature.md)
 - [Indentation Fix Template](./PULL_REQUEST_TEMPLATE/indentation_fix.md)
+
+- [PR for bug](?expand=1&template=bug.md)

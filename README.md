@@ -34,3 +34,12 @@ Cada template tem um propósito específico e deve ser usado de acordo com o tip
 - **BUG 🐛**: Este template é usado para descrever uma tarefa que soluciona um bug. Inclua uma descrição detalhada do bug, passos para reproduzir, comportamento esperado e comportamento atual.
 - **FEATURE ✨**: Este template é usado para descrever uma tarefa que acrescenta uma nova funcionalidade. Inclua uma descrição detalhada da funcionalidade, detalhes de implementação e quaisquer issues ou pull requests relacionados.
 - **INDENTATION FIX 📝**: Este template é usado para descrever uma tarefa que corrige problemas de indentação. Inclua uma descrição das mudanças feitas para corrigir os problemas de indentação e quaisquer issues ou pull requests relacionados.
+
+
+
+
+
+
+TESTE TESTE TESTE
+TESTE TESTE
+TESTE

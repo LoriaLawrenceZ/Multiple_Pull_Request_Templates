@@ -1,16 +1,16 @@
-# Bug Report
+<!--Coloque o número da tarefa aqui-->
+<h1 align=center>SUS-XXX</h1>
 
-## Description
-<!-- Describe the bug in detail. Include screenshots if applicable. -->
+# Análise
 
-## Steps to Reproduce
-<!-- Provide a step-by-step list of how to reproduce the bug. -->
+<!--Análise da tarefa aqui-->
+- análise
 
-## Expected Behavior
-<!-- Describe what you expected to happen. -->
+# Classes Afetadas
 
-## Actual Behavior
-<!-- Describe what actually happened. -->
+<!--Informa as classes afetadas pelas alterações da tarefa-->
+- Classe
 
-## Additional Information
-<!-- Add any other context about the problem here. -->
+# Informações de Teste
+
+<!--Opcional. Informa aqui ressalvas quanto a testes necessários para testar de maneira completa a tarefa-->

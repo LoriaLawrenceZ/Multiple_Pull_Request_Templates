@@ -1,4 +1,6 @@
-Please go to the `Preview` tab and select the appropriate sub-template:
+Vá para o modo **PREVIEW** para selecionar o template a ser utilizado
 
-* [BUG 🐛](?expand=1&template=bug.md)
-* [FEATURE ✨](?expand=1&template=feature.md)
+| Template | Descrição |
+| :---: | :---: |
+| [BUG 🐛](?expand=1&template=bug.md) | Template para descrição de uma tarefa que soluciona um `BUG` |
+| [FEATURE ✨](?expand=1&template=feature.md) | Template para descrição de uma tarefa que acrescenta uma `FEATURE``  |

@@ -1,12 +1,4 @@
-# Pull Request Template Chooser
+Please go to the `Preview` tab and select the appropriate sub-template:
 
-To choose the appropriate pull request template, follow these steps:
-
-1. Copy the content of the relevant markdown file (`bug.md`, `feature.md`, or `indentation_fix.md`) from the `.github/PULL_REQUEST_TEMPLATE` directory into your pull request description.
-2. Optionally, you can find the individual template files in the `.github/PULL_REQUEST_TEMPLATE` directory for easy access.
-
-- [Bug Report Template](./PULL_REQUEST_TEMPLATE/bug.md)
-- [Feature Request Template](./PULL_REQUEST_TEMPLATE/feature.md)
-- [Indentation Fix Template](./PULL_REQUEST_TEMPLATE/indentation_fix.md)
-
-- [PR for bug](?expand=1&template=bug.md)
+* [BUG 🐛](?expand=1&template=bug.md)
+* [FEATURE ✨](?expand=1&template=feature.md)
